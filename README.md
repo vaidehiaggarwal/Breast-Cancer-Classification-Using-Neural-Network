@@ -146,8 +146,3 @@ The trained neural network successfully predicts whether a breast tumor is **Ben
 
 Project: Breast Cancer Classification Using Neural Network
 
----
-
-## 📜 License
-
-This project is developed for educational and academic purposes.
